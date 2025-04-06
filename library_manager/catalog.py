@@ -90,6 +90,7 @@ class Library:
        else:
            print (f'\nНайдена книга {book_find}')
            return book_find
+
    def viewing_books(self):
        """
        Просмотр всех книг в библиотеке.
